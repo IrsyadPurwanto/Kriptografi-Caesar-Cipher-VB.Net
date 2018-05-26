@@ -1,0 +1,11 @@
+c:\users\faj\documents\visual studio 2013\Projects\kriptografi\kriptografi\bin\Debug\kriptografi.exe.config
+c:\users\faj\documents\visual studio 2013\Projects\kriptografi\kriptografi\bin\Debug\kriptografi.exe
+c:\users\faj\documents\visual studio 2013\Projects\kriptografi\kriptografi\bin\Debug\kriptografi.pdb
+c:\users\faj\documents\visual studio 2013\Projects\kriptografi\kriptografi\bin\Debug\kriptografi.xml
+c:\users\faj\documents\visual studio 2013\Projects\kriptografi\kriptografi\obj\Debug\kriptografi.Form1.resources
+c:\users\faj\documents\visual studio 2013\Projects\kriptografi\kriptografi\obj\Debug\kriptografi.Resources.resources
+c:\users\faj\documents\visual studio 2013\Projects\kriptografi\kriptografi\obj\Debug\kriptografi.vbproj.GenerateResource.Cache
+c:\users\faj\documents\visual studio 2013\Projects\kriptografi\kriptografi\obj\Debug\kriptografi.exe
+c:\users\faj\documents\visual studio 2013\Projects\kriptografi\kriptografi\obj\Debug\kriptografi.xml
+c:\users\faj\documents\visual studio 2013\Projects\kriptografi\kriptografi\obj\Debug\kriptografi.pdb
+C:\Users\FAJ\documents\visual studio 2013\Projects\kriptografi\kriptografi\obj\Debug\kriptografi.vbprojResolveAssemblyReference.cache
